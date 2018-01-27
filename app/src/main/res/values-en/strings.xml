@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_day">Day</string>
+    <string name="btn_montly">Month</string>
+    <string name="btn_weekly">Week</string>
+    <string name="coding_about">Programmer : Ricardo Barbosa</string>
+    <string name="designer_about">Idealizer and Designer : Wanderson Barbosa</string>
+    <string name="group_about_page">Connect with us</string>
+    <string name="group_about_resp">Responsible</string>
+    <string name="total_text_app">Time of use: %1$s</string>
+    <string name="version">Version 1.1.5</string>
+    <string name="about_menu">About</string>
+    <string name="confirm_button_dialog">Yes</string>
+    <string name="contate_nos_info">Contact us</string>
+    <string name="dialog_attention_title">Attention</string>
+    <string name="negative_button_dialog">No</string>
+    <string name="others_label_piechart">Others</string>
+    <string name="title_dialog_info">Information</string>
+    <string name="review_playstore_about">Rate and Review in the Play Store</string>
+    <string name="piechart_toast_info">Time of use:</string>
+</resources>

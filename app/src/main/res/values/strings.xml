@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Liber</string>
+    <string name="phrase_0" translatable="false">Muito bem, seu uso de Redes Sociais é baixo. Continue assim, seu futuro agradece.</string>
+    <string name="phrase_over_50" translatable="false">Vá com calma. Acho que você já usou o suficiente por hoje, mais que isso pode te prejudicar.</string>
+    <string name="phrase_over_100" translatable="false">Estou preocupado com você, está gastando muito tempo com Redes Sociais, talvez existam coisas mais importantes para fazer agora, por que não começa a fazê-las agora?</string>
+
+
+    <!--ABOUT PAGE-->
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+    <string name="group_about_page">Conecte-se conosco</string>
+    <string name="version">Versão 1.1.5</string>
+    <string name="btn_day">Dia</string>
+    <string name="btn_weekly">Semana</string>
+    <string name="btn_montly">Mês</string>
+    <string name="description_about_screen" translatable="false">Aplicação desenvolvida a partir de estudos e levantamento de dados que tinham como objetivo compreender o comportamento de acadêmicos em relação ao uso de Redes Sociais. A aplicação tem como objetivo ajudar quem estiver se sentindo prejudicado com o uso de tais Redes Sociais, porém não consegue minimizar o uso das mesmas.</string>
+    <string name="group_about_resp">Responsáveis</string>
+    <string name="designer_about">Idealizador e Designer : Wanderson Barbosa</string>
+    <string name="coding_about">Programador : Ricardo Barbosa</string>
+    <string name="total_text_app">Tempo de Uso: %1$s</string>
+
+    <string name="liber_notification_title_template" translatable="false">Liber: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="liber_notification_message" translatable="false">Você atingiu %1$d%% do tempo recomendável nas redes sociais, corresponde a %2$s.</string>
+    <string name="about_menu">Sobre</string>
+    <string name="cirlce_progress_dialog" translatable="false">O circulo de progresso apresenta quanto do tempo recomendado para o uso diário de redes sociais você já usou, o tempo recomendado é de até duas horas.</string>
+    <string name="title_dialog_info">Informação</string>
+    <string name="piechart_toast_info">Tempo de uso:</string>
+    <string name="others_label_piechart">Outros</string>
+    <string name="dialog_attention_title">Atenção</string>
+    <string name="permission_dialog" translatable="false">É nescessária uma permissão para acessar o tempo de uso dos aplicativos de redes sociais, deseja ativá-la!</string>
+    <string name="confirm_button_dialog">Sim</string>
+    <string name="negative_button_dialog">Não</string>
+    <string name="dialog_info_negative_permission" translatable="false">Infelizmente é nescessária a permissão para o funcionamento do aplicativo.</string>
+    <string name="contate_nos_info">Contate-nos</string>
+    <string name="review_playstore_about">Avalie na Play Store</string>
+    <string name="desactive_notification_dialog" translatable="false">Caso queira desativar as notificaçôes de um aplicativo, basta clicá-lo nesta lista e você será redirecionado para a tela de configuração e poderá fazer o bloqueio das notificações.</string>
+    <string name="use_notification">Notificação de uso</string>
+</resources>
