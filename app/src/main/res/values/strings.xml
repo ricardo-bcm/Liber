@@ -6,7 +6,7 @@
 
 
     <!--ABOUT PAGE-->
-    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+    <string name="copy_right" translatable="false">Copyrights © 2017 - %1$d</string>
     <string name="group_about_page">Conecte-se conosco</string>
     <string name="version">Versão 1.1.5</string>
     <string name="btn_day">Dia</string>

@@ -3,10 +3,10 @@
     <string name="btn_day">Day</string>
     <string name="btn_montly">Month</string>
     <string name="btn_weekly">Week</string>
-    <string name="coding_about">Programmer : Ricardo Barbosa</string>
+    <string name="coding_about">Developer: Ricardo Barbosa</string>
     <string name="designer_about">Idealizer and Designer : Wanderson Barbosa</string>
     <string name="group_about_page">Connect with us</string>
-    <string name="group_about_resp">Responsible</string>
+    <string name="group_about_resp">Team</string>
     <string name="total_text_app">Time of use: %1$s</string>
     <string name="version">Version 1.1.5</string>
     <string name="about_menu">About</string>
